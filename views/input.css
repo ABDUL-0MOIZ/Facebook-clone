@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input:focus{
+  color: black;
+  border: 1px solid rgb(0, 0, 0);
+  outline: 2px solid rgb(36, 36, 253);
+   
+}
